@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "エンディング",
+  "base_artist": "back number",
+  "createdAt": "2026-02-06T06:58:31.907552Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブルース・リー「死亡遊戯」エンディング・テーマ",
+      "artist": "Colleen Camp",
+      "has_synced": true,
+      "path": "select/01_ブルース・リー「死亡遊戯」エンディング・テーマ_Colleen_Camp.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エンディング",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/02_エンディング_back_number.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エンディング",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/03_エンディング_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エンディング",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/04_エンディング_back_number.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エンディング",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/05_エンディング_back_number.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "冬のライオン(エンディング・テーマ)",
+      "artist": "沖田浩之",
+      "has_synced": false,
+      "path": "select/06_冬のライオン(エンディング・テーマ)_沖田浩之.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Until 【PCゲーム「Tears To Tiara」エンディング】",
+      "artist": "中山愛梨沙",
+      "has_synced": true,
+      "path": "select/07_Until_【PCゲーム「Tears_To_Tiara」エンディング】_中山愛梨沙.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "エンディング",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/08_エンディング_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "おとといおいで - TVアニメ・エンディング Ver.",
+      "artist": "Hanae",
+      "has_synced": false,
+      "path": "select/09_おとといおいで_-_TVアニメ・エンディング_Ver._Hanae.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エンディング",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_エンディング_back_number.txt"
+    }
+  ]
+}
